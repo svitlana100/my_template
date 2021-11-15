@@ -1,0 +1,4 @@
+﻿  Template1.cpp
+d:\флешка 22_06_2020\робота\oop\c++ new\template1\template1\template1.cpp(33): warning C4552: !=: оператор не имеет результата; требуется оператор с побочным действием
+d:\флешка 22_06_2020\робота\oop\c++ new\template1\template1\template1.cpp(59): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Template1.vcxproj -> D:\Флешка 22_06_2020\робота\OOP\C++ new\Template1\Debug\Template1.exe
