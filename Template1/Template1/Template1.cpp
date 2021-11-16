@@ -43,7 +43,7 @@ public:
 
 };
 template <>
-class Repository5<int>
+class Repository5<double>
 {
 private:
 	unsigned char m_data;
