@@ -67,7 +67,7 @@ public:
 
 int main()
 {
-	Repository5 <int> intRepo;
+	Repository5 <double> intRepo;
 	for (int i = 0; i < 5; i++)
 	{
 		intRepo.set(i, i);
