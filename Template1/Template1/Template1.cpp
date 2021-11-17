@@ -107,6 +107,15 @@ int main()
 	{
 		cout << (boolRepo.get(i) ? "true" : "false") << '\n';
 	}
+	Repository5 <int> intRepo;
+	for (int i = 0; i < 5; i++)
+	{
+		intRepo.set(i, i);
+	}
+	for (int i = 0; i < 5; i++)
+	{
+		cout << intRepo.get(i) << '\n';
+	}
 
 	getchar();
 	return 0;
